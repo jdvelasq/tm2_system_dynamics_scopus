@@ -1,0 +1,898 @@
+acbz
+	airport based comprehensive bonded zone
+ad
+    axiomatic design
+adg
+    average daily gain
+aers
+    air exchange rates
+ahp
+    analytic hierarchy process
+am
+    asset management
+amt
+    advanced manufacturing technology
+ann
+    artificial neural network
+anp
+    analytic network process
+ant
+	atomic nanotechnology
+apcf
+    air pollution charging fee
+app
+	available resources per person
+apsim
+	agricultural production systems simulator
+apt
+    advanced persistent threat
+arcob
+	air resource co benefits
+art
+    atraumatic restorative treatment
+atfm
+    air traffic flow model
+awinbrm
+	aviation weather information and bandwidth requirement model
+bau
+    business as usual
+bbri
+	bank bri
+bcf
+	bioconcentration factor
+bcm
+    business continuity management
+bcr
+	benefit cost ratio
+besss
+    battery energy storage systems
+bfp
+	brownfield process
+bhdms
+    broiler house disease management simulator
+bhiwa
+	basin wide holistic integrated water assessment
+bim
+    building information modeling
+blm
+    biomass logistics model
+bmri
+	bank mandiri
+bn
+    bayesian network
+bod
+    biochemical oxygen demand
+bpmn
+    process model and notation
+bsc
+	balanced scorecard framework
+bwb
+	blended wing body
+bwe
+	bullwhip effect
+bwm
+    best worst method
+cafc
+    corporate average fuel consumption
+capex
+	capital expenditures
+cbs
+	contextual behavioural science
+cc
+    customer concentration
+ccds
+    coupling coordination degrees
+cdms
+    design and manufacturing sustainability
+cdr
+    carbon dioxide removal
+cdsi
+	controlled drainage with subirrigation
+cdw
+    construction and demolition waste
+cea
+	cost effectiveness analysis
+cer
+	cost effectiveness ratio
+ces
+	constant elasticity of substitution
+cet
+    carbon emission trading
+cf
+    capacity factor
+cfm
+    conventional flooding method
+cft
+    conventional fuel trucks
+cghs
+    collapse geological hazards
+cgm
+    community gold mining
+chs
+    community health services
+chss
+    community healthcare systems
+chws
+    community health workers
+ci
+    corn industry
+cia
+	cross impact analysis
+cip
+    collaborative innovation performance
+cld
+    casual loop diagram
+clds
+    causal loop diagrams
+clm
+    causal loop modeling
+clsc
+    closed loop supply chains
+clv
+    customer lifetime value
+cmip5
+    coupled model intercomparison project 5
+co2e
+	carbon dioxide equivalents
+coct
+    city of cape town
+cod
+    chemical oxygen demand
+cora
+	center for operational research and analysis
+cpfr
+	co operation planning forecasting replenishment
+cpo
+    crude palm oil
+cptbu
+    consumer product trade business unit
+crm
+    customer relationship management
+cs
+    customer satisfaction
+csn
+    children special needs
+csp sdm
+	coordinated scenario planning with system dynamics modeling
+csr
+    corporate social responsibilities
+cv
+    cyberbullying victims
+cvd
+	cardiovascular disease
+cw r f s
+	wall roof floor support
+cwr
+    crop water requirement
+dbs
+    dynamic business simulation
+dcv
+    dynamic capabilities view
+ddpes
+	delay of delivery of precast element to site
+dematel
+	decision making trial and evaluation laboratory
+des
+    discrete event simulation
+digdm
+	design information gap between designer and manufacturer
+dis
+    disruptive innovation strategy
+dmi
+    dry matter intake
+dms
+	decision makers
+do
+    dissolved oxygen
+doe
+    design of experiments
+dprsr
+    driving force pressure resistance state response
+dpsir    
+    driver pressure state impact response
+drmsr
+    distribution root mean square ratio
+ds
+    dynamic systems
+dsm
+	demand side management
+dsr
+    driving force state response
+dss
+    decision support system
+dvvt
+    dual variable valve timing
+e waste
+    electronic waste
+ec earth
+	european consortium earth
+eci
+    energy consumption improvement
+ef
+    environmental flow
+ems mcis
+	emergency medical system for mass casualty incidents
+enipas
+    expanded national integrated protected area systems
+enre
+	economyn resource environment
+eol
+	end of life
+eoq
+    economic order quality
+ep
+    energy productivity
+epc
+    energy performance contracting
+epos
+    electronic point of sales
+epps
+	epidemic prone pathogens
+epr
+    extended producer responsibility
+eps
+	electric power substitution
+er
+    electrification ratio
+eroi
+    energy return on investment
+erp
+    enterprise resources planning
+erw
+    enhanced rock weathering
+escos
+	energy users and energy saving companies
+esgm
+    surface and groundwater model
+etmm
+    entrusted transportation management mode
+eu ets
+	european union emission trading system
+ev
+    electric vehicles
+evs
+    electric vehicles
+ewm
+    entropy weight method
+ews
+    emergency water supply
+ewum
+    economical water use model
+fa
+	fly ash
+fao
+    food and agriculture organization
+fcm
+    fuzzy cognitive maps
+fdcs
+    family doctor contract service
+fgd
+    focus group discussion
+fis
+    fuzzy inference system
+fit
+    feed in tariff
+fmipcc
+	fully mobile in pit crushing and conveying
+fmmlmh
+	fully mechanized mining with large mining height
+fs ssc
+	field station school for smallholder community
+fss
+    female sex selected semen
+fta
+    fault tree analysis
+ftz
+    free trade zones
+ftzs
+    free trade zones
+fuca
+    faire un choix adequate
+fwpvs
+	four wheeled passenger vehicles
+ga
+    genetic algorithm
+gbe
+    green building eco environment
+gc
+    green concrete
+gce
+    green cooperation experiment
+gcms
+    general circulation models
+gd
+    gelevard dam
+gdi
+    gasoline direct injection
+gdm
+    generic desertification model
+gdp
+    gross domestic production
+gemba
+	global energy model using a biophysical approach
+ghg
+	greenhouse gasses
+ghgs
+	greenhouse gasses
+gif
+    green image factor
+gmb
+    group model building
+gmr
+    galapagos marine reserve
+gosl
+    general ontology specification language
+gpd
+    government promotion degree
+grd
+	growth rate of demand
+gt
+    green technology
+gui
+    graphical user interface
+gva
+    gross value added
+gvcs
+    global value chains
+gwp
+    global warming potential
+hadgem2
+	hadley center global environment model version 2
+hci
+    human computer interaction
+hcv
+    hepatitis c virus
+hcw
+    hot carcass weight
+hdi
+    human development index
+hep
+    human error probability
+hk
+    hong kong
+hok
+	hoshin kanri
+hpc
+    high performance computing
+hqed
+	high quality economic development
+hra
+    human reliability analysis
+hs
+    health system
+hsr
+	highspeed rail
+hsrpt
+	highspeed rail passenger transport
+iaf
+    international astronautical federation
+iam
+    integrated assessment model
+ibs
+    intelligent boom sprayer
+icid
+	international commission on irrigation and drainage
+ict
+    information and communication technology
+icu
+    intensive care units
+iczm
+    integrated coastal zone management
+ie
+    industrial estate
+ieq
+    indoor environmental quality
+ifets
+    international forum of educational technology and society
+ikn
+    ibu kota negara
+ile
+    interactive learning environment
+imp
+    inventory management performance
+iois
+    inter organizational information system
+iot
+    internet of things
+ipd
+    integrated project delivery
+ipm
+    integrated pest management
+irr
+	internal rate of return
+ism
+    interpretative structural modeling
+it
+    information technology
+itrs
+	ice thickness at the riverside
+itsm
+    it service management
+itss
+    intelligent transportation systems
+ivtf
+    interval valued triangular fuzzy
+iwmi
+    international water management institute
+iwrm
+    integrated water resources management
+jit
+	just in time
+jmi
+    jointly managed inventory
+js
+    jute sticks
+jsc
+    jute stick charcoal
+kai
+	kaizen
+kan
+	kanban
+kboe
+	kilobarrels of oil equivalent
+kibs
+	knowledge intensive business services
+kifs
+    key influence factors
+km
+    knowledge management
+kms
+    knowledgeable manufacturing system
+kpd
+    key population deworming
+kpi
+    key performance indicator
+lars wg
+	long ashton research station weather generator
+lbpv
+	load bearing capacity per vehicle
+lca
+    life cycle assessment
+lcc
+    life cycle cost
+lcos
+	limiting conditions for operations
+leed
+	leadership in energy and environmental design
+lgas
+    livestock guard animals
+lih
+    low income housing
+liihep
+	logistics information inconsistency due to human errors probability
+lm
+    lean manufacturing
+lmdi
+    logarithmic mean divisia index
+lmt
+    lean manufacturing tools
+lng
+	liquefied natural gas
+loc
+    limiting conditions for operations
+lulc
+    land use and land cover
+lv
+	lotka volterra
+mape
+    mean absolute percentage error
+marb
+	mississippiatchafalaya river basin
+maxent
+	maximum entropy distribution modeling
+mbd
+    model boundary diagrams
+mcdm
+	multicriteria decision making
+mci
+    mass casualty incident
+mcm
+    million cubic meters
+me
+    manufacturing enterprise
+mes
+    manufacturing enterprises
+mfdt
+    mealworm farm digital twin
+mfis
+	microfinance institutions
+mfz
+    marine functional zoning
+mfzs
+    marine functional zones
+mgs
+    medium growth scenarios
+mmesd
+	meta model for enterprise systems dynamics
+mmse
+	mini mental state examination
+mol
+    minimum operating level
+mop
+	multiobjective programming
+mpi esm
+	max planck institute earth system model
+mq
+    mold quality
+mro
+	maintenance repair and operation
+mrr
+    mean residual ratio
+msr
+    megaproject social responsibility
+msw
+    municipal solid waste
+mwt
+    mega water transfer
+na
+    natural aggregate
+nbs
+    national bureau of statistics
+ncc
+    national control center
+ncp
+    north china plain
+nea
+    net energy analysis
+neps
+    nigerian electric power sector
+nerc
+    nigeria electricity regulatory commission
+nev
+    new energy vehicle
+nevms
+    new energy vehicle manufacturers
+nfls
+    network feedback loops
+ngcws
+	new generation of construction workers
+ngp
+    northern great plains
+nimby
+    not in my back yard
+nnnp
+    northern negros natural park
+nox
+	nitrogen oxides
+npcd
+	national plans to combat desertification
+npd
+    new product development
+npl
+	non performing loan
+npps
+    nuclear power plants
+npv
+    net present value
+nrb
+    niger river basin
+nrbtdss
+	natural resource based tourism decision support system
+nse
+	nash sutcliffe efficiency
+nsps
+    national security personnel system
+nt
+	nanotechnology
+ntu
+    nanyang technological university
+nwl
+    normal water level
+nz
+    new zealand
+nzcs
+    new zealand customs service
+o2o
+	offline business model
+ocp
+    optimal cultivation pattern
+oems
+    original equipment manufacturers
+oics
+    open innovation communities
+ome
+    open modeling environment
+oo
+	object oriented
+ooda
+	observe orient decide act
+opex
+	operational expenditures
+opoe
+	online public opinion during emergencies
+p bfp
+	preferable brownfield process
+p s r
+	pressure state response
+paf
+	prevention appraisal failure
+parsim
+	pilot production absorption retention simulation
+pb
+    prefabricated buildings
+pbd
+	point based design
+pbip
+    prefabricated building incentive policies
+pbos
+    project based organizations
+pcin
+    prefabricated construction innovation network
+pcps
+    power construction projects
+pdmp
+    piecewise deterministic markov process
+pebs
+	plus energy buildings
+php
+    prefabrication housing production
+ple
+    personal learning edition
+pm
+    particulate matter
+podium
+	policy dialog model
+pop
+    persistent organic pollutant
+pops
+    persistent organic pollutants
+poq
+    period order quantity
+poy
+	poka yoke
+ppp
+    public private partnership
+ppr
+	peste des petits ruminants
+pq
+    prefab quality
+psm
+    participatory systems mapping
+pso
+    particle swarm optimization
+psp
+    project sustainable performance
+psr
+	pressure state response
+ptie
+    polskie towarzystwo inzynierii ekologicznej
+pttmam
+    powertrain technology transition market agent model
+pv
+	photovoltaic
+qcc
+    quality coordination cost
+qol
+    quality of life
+qtp
+	qinghai tibet plateau
+rac
+    recycled aggregate concrete
+rbd
+    randomized block design
+rdi
+	responsive drip irrigationf
+rees
+    rare earth elements
+rescom
+	resource conservative manufacturing
+rh
+    relative humidity
+rms
+    reconfigurable manufacturing system
+rmse
+    root mean square error
+roi
+    return on investment
+rokaf
+    republic of korea air force
+rps
+    renewable portfolio standard
+rsc
+    reverse supply chain
+rss
+    reconnaissance satellite system
+rti
+    regional technology innovation
+rtw
+	return to work
+rucdw
+	resource utilization of construction and demolition waste
+saf
+    systems analysis framework
+sand
+    statistics and numerical data
+sat
+    special assistance teachers
+sbc
+    sequential biological concentration
+sbd
+	set based design
+scc
+    supply chain concentration
+scg
+    spent coffee grounds
+sci
+    standard component index
+scm
+    supply chain management
+sd bf
+	system dynamic based framework
+sdi
+    subsurface drip irrigation
+sdm
+    system dynamic model
+sdoh
+    social determinants of health
+sds
+    system dynamics
+sdsm
+	statistical downscaling model
+sdw
+    system dynamics watershed
+se
+    standard error
+sec
+    stormwater escape channel
+ses
+	socio ecological system
+sfc
+    stock flow chart
+sfd
+    stock flow diagram
+sfds
+    stock and flow diagrams
+sfm
+    social fabric matrix
+sfs
+	settlements farming system
+si
+    sustainability index
+sir
+	susceptible infected recovered
+sm
+    simulation modeling
+smes
+	small and medium enterprises
+sncsd
+    social networking circle by system dynamics diagram
+sns
+    social networking service
+snwdp
+    south to north water diversion project
+sos
+    system of systems
+spsm
+    software process simulation modeling
+sqddss
+    service quality dynamic decision support system
+srca
+    socially responsible collective action
+sreqom
+	reliability engineering quality and operations management
+srns
+    small ruminant nutrition system
+ss
+    sustainable sites
+ssd
+    spatial system dynamics
+ssdm
+    soft system dynamics methodology
+ssl
+	self sufficiency levels
+staas
+    storage as a service
+sti
+    sexually transmitted infections
+suds
+	sustainable drainage systems
+tam
+    technology acceptance model
+tdn
+    total digestible nutrients
+tf
+    translocation factor
+tfr
+    total fertility rate
+tgc
+    tradable green certificate
+tgra
+    three gorges reservoir area
+tic
+    telecommunication industry chain
+tii
+    transportation infrastructure investment
+tis
+    technological innovation system
+tl
+    transmission losses
+tm
+    trommel mercury
+tms
+    talent management strategy
+toe
+	technology organization environment
+topsis
+	technique for order of preference by similarity to ideal solution
+tou
+	time of use
+tpm
+    total productive maintenance
+tqm
+    total quality management
+tscc
+    total supply chain cost
+tsdr
+	transportation supply demand ratio
+tss
+    total suspended solid
+ttp
+    technology transfer policy
+twrs
+    tank waste remediation system
+ue
+    unplanned extubation
+uhs
+    ultimate heat sink
+uls
+    underground logistic system
+uml
+    unified modeling language
+un sdgs
+	sdg
+unccd
+	united nations convention to combat desertification
+urt
+    urban rail transit
+uts
+	unit tanks
+uur
+    urban underground resources
+uvc
+    unit variable cost
+uw
+	university of waterloo
+uwwr
+	urban wastewater recycling
+vfm
+    value for money
+vioc
+    vertically integrated oil company
+vmi
+    vendor managed inventory
+vsm
+    value stream map
+vsmap
+	value stream map
+wasp
+	water quality analysis simulation program
+wcm
+    world class manufacturing
+weap
+	water evaluation and planning
+wef
+	water energy and food
+wgs
+    whole genome sequencing
+who
+    world health organization
+wid
+    werribee irrigation district
+wmd
+    waste minimization design
+wom
+    word of mouth
+wpd
+    whole population deworming
+wposc
+	working pressure from on site construction
+wrcc
+    water resource carrying capacity
+wtc
+    willingness to consider
+wte
+    waste to energy
+yto
+	yuantong express
+zrb
+    zarrine river basin
