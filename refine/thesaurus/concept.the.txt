@@ -50514,8 +50514,6 @@ research protagonists
     research protagonists
 research purpose
     research purpose
-research purposes
-    research purposes
 research results
     research results
 research scholars
