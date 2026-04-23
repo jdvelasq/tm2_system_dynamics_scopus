@@ -1,0 +1,81 @@
+Bastan M, 2018, KYBERNETES, V47, P142, DOI 10.1108/K-01-2017-0003
+    Bastan M., Sustainable development of agriculture: A system dynamics model, Kybernetes, 47, 1, pp. 142-162, (2017)
+Campuzano-Bolarín F, 2025, CENT EUR J OPER RES, DOI 10.1007/s10100-025-00999-4
+    Campuzano-Bolarin F., From natural language to executable models. How ChatGPT writes a system dynamics model, Cent European Journal of Operational Research, (2025)
+Cheng B, 2022, ENV MANAG, V70, P666, DOI 10.1007/s00267-022-01617-8
+    Chen H., Improving Contractors’ Participation of Resource Utilization in Construction and Demolition Waste through Government Incentives and Punishments, Environ. Manag, 70, pp. 666-680, (2022)
+Chidumayo NN, 2018, PLOS, V13, DOI 10.1371/journal.pone.0205884
+    Chidumayo N.N., System dynamics modelling approach to explore the effect of dog demography on rabies vaccination coverage in Africa, PLoS ONE, 13, 10, (2018)
+Ding H, 2014, PROC - INT CONF BUS INTELL FINANC ENG BIFE, P586, DOI 10.1109/BIFE.2013.122
+    Ding Y.Z.H., Simulation and Optimization of Decision-Making of Organizations "Safety Investment" Business Intelligence and Financial Engineering (BIFE), Sixth International Conference on, Hangzhou, pp. 586-590, (2013)
+Dvornik J, 2007, PROC IASTED INT CONF MODEL IDENT CONTROL MIC, P105
+    Dvornik S., Simulation Modelling Heuristic Optimization of the Ship Steam Boiler,  IASTED International Conference on Modelling, Identification, and Control, pp. 105-108, (2007)
+    Dvornik S., Simulation modelling and heuristic optimization of the ship steam boiler,  IASTED International Conference on Modelling, Identification and Control, MIC 2007, pp. 105-108, (2007)
+    Dvornik S., Simulation modelling and heuristic optimization of the ship steam boiler, The 26th IASTED International Conference on Modelling, Identification, and Control, pp. 105-108, (2007)
+    Dvornik S., Simulation modelling and heuristic optimization of the ship steam boiler, The 26th IASTED International Conference on Modelling, pp. 105-108, (2007)
+Dvornik J/1, 2007, WMSCI - WORLD MULTI-CONF SYST CYBERN INFORMATICS JOINTLY INT CONF SYST ANAL SYNTH ISAS - PROC, V2, P25
+    Dvornik J., Qualitative Simulation Model of the Ship Steam Boiler, Proceedings, 12th World Multiconference on Systemics, Cybernetics and In formatics, pp. 100-105, (2008)
+Dvornik S, 2008, WMSCI - WORLD MULTI-CONF SYST CYBERN INFORMATICS JOINTLY INT CONF SYST ANAL SYNTH ISAS - PROC, V5, P100
+    Dvornik J., Contribution to the development of simulation model of the ship steam boiler, The 2007 European Simulation and Modelling Conference, ESM 2007, pp. 65-67, (2007)
+Eversole CB, 2018, HERPETOL MONOGR, V32, P22, DOI 10.1655/HERPMONOGRAPHS-D-17-00005
+    Eversole C.B., Theoretical and Population Models for American Alligators (Alligator Mississippiensis), (2017)
+Fett MJ, 2001, J MED SCREEN, V8, P39, DOI 10.1136/jms.8.1.39
+    Fett M.J., Computer modelling of the Swedish two county trial of mammographic screening and trade offs between participation and screening interval, J Med Screen, 8, 1, pp. 39-45, (2001)
+Foxon F, 2021, ASTRON COMPUT, V36, DOI 10.1016/j.ascom.2021.100486
+    Foxon F., Evaluating modern system dynamics software for use in astrophysical simulations, Astronomy and Computing, 36, (2021)
+Jetha A, 2016, J OCCUP REHABIL, V26, P276, DOI 10.1007/s10926-015-9613-2
+    Jetha G.P.A., Return-to-Work Within a Complex and Dynamic Organizational Work Disability System, Journal of Occupational Rehabilitation, 26, 3, pp. 276-285, (2015)
+Jones L, 2014, DISCRET SIMUL SYST DYN MANAG DECIS MAK, V9781118349021, P215, DOI 10.1002/9781118762745.ch11
+    Jones L., Vensim and the development of system dynamics, Discrete-event simulation and system dynamics for management desicion making, pp. 215-247, (2014)
+Junior JC, 2019, BRAZ J OPER PROD MANAG, V16, P14, DOI 10.14488/BJOPM.2019.v16.n1.a2
+    Junior J.C., Computer Simulation Model for Outpatient Clinics in a Brazilian Large Public Hospital Specialized in Cardiology, Brazilian Journal of Operations and Production Management, 16, 1, pp. 14-32, (2019)
+Jurjević M, 2024, J MAR SCI ENG, V12, DOI 10.3390/jmse12071218
+    Jurjevic M., Simulation Model of Hydraulic System States for Ship Cranes, J. Mar. Sci. Eng, 12, (2024)
+Lagarda-Leyva EA, 2019, INT J SUPPLY CHAIN MANAG, V8, P43
+    Lagarda-Leyva E. A., Collection and distribution of wheat, dynamic of theprocess of shipping to international markets: Case study, Int. J Sup. Chain. Mgt, 8, 1, (2019)
+    Lagarda-Leyva E., Collection and distribution of wheat, dynamic of the process of shipping to international markets: Case study, Int. J. Supply Chain Manage., 8, pp. 43-57, (2019)
+Li C-F, 2011, INT CONF SYST SCI ENG DES MANUF INFORMATIZ ICSEM, V2, P172, DOI 10.1109/ICSSEM.2011.6081269
+    Li Chun-Fa W.L., Scenario simulation of Sino-Singapore Tianjin Eco-city development based on System Dynamics, System Science, Engineering Design and Manufacturing Informatization (ICSEM), (2011)
+Li M/2, 2019, PROC INT CONF COMPUT IND ENG CIE, V2019-October
+    Li X.M., Research on system dynamics simulation of knowledge sharing mechanism in social Q&A community, Information Science, 36, 3, pp. 125-129, (2018)
+    Li X.X., Research on system dynamics simulation of knowledge sharing mechanism in social Q&A community, Information Science, 36, 3, pp. 125-129, (2018)
+Li X-G, 2014, PROC INT ASIA CONF IND ENG MANAG INNOV IEMI, P823, DOI 10.1007/978-3-642-40060-5_79
+    Li X., System dynamics modeling in coal mine safety, Proceedings of 013 4th International Asia Conference on Industrial Engineering and Management Innovation, (2014)
+Li X/9, 2021, SYST, V9, DOI 10.3390/systems9040087
+    Li X., The impact of different internet application contexts on knowledge transfer between enterprises, Systems, 9, 4, (2021)
+Li Y/4, 2014, J COMPUT SCI, V11, P6039, DOI 10.12733/jics20105124
+    Li Y., Research on the Pricing Model of Medical Services in China Based on System Dynamics Method, Journal of Information and Computational Science, 11, 16, pp. 6039-6046, (2014)
+Lu Q, 2025, J SAF ENV, V25, P779, DOI 10.13637/j.issn.1009-6094.2024.1254
+    LU X L., Research on green and low-carbon pathways for coal power enterprises in Shaanxi Province, Journal of Safety and Environment, 25, 2, pp. 779-789, (2025)
+Mekki S, 2012, CAIRO INT BIOMED ENG CONF CIBEC, P104, DOI 10.1109/CIBEC.2012.6473299
+    Mekki M.A.S., A system dynamics based model for medical equipment maintenance procedure planning in developing countries, Biomedical Engineering Conference (CIBEC), pp. 104-108, (2012)
+Muldianto H, 2020, INT J GEOMATE, V19, P8, DOI 10.21660/2020.72.02271
+    Muldianto H., Sustainable water services fee using a system dynamics approach in jatigede reservoir, Int. J., 19, 72, pp. 8-13, (2020)
+Peterková J, 2011, PROC INT CARPATHIAN CONTROL CONF ICCC, P298, DOI 10.1109/CarpathianCC.2011.5945867
+    Peterkova P.N.J., Simulation model applied to food industry, Carpathian Control Conference (ICCC), 2011 12th International, pp. 298-302, (2011)
+Peterková J, 2012, PROC INT CARPATHIAN CONTROL CONF ICCC, P537, DOI 10.1109/CarpathianCC.2012.6228703
+    Peterkova P.N.J., Software support of managerial decision making based on system approach, 13th International, High Tatras, Carpathian Control Conference (ICCC), pp. 537-542, (2012)
+Shen LY, 2005, J ZHEJIANG UNIV SCI, V6 A, P339, DOI 10.1631/jzus.2005.A0339
+    Shen L.Y., Application of system dynamics for assessment of sustainable performance of construction projects, Journal of Zhejiang University Science A, 6, 4, pp. 339-349, (2005)
+Simonetto EDO, 2014, INT J ENV SUSTAIN DEV, V13, P339, DOI 10.1504/IJESD.2014.064960
+    Simonetto E.O., Simulation computer to evaluate scenarios of solid waste - an approach using systems dynamics, International Journal of Environment and Sustainable Development, 13, 4, pp. 339-353, (2014)
+Simonović SP, 2010, SYST APPROACH MANAG DISASTERS METHODS APPL, DOI 10.1002/9780470890363
+    Simonovic S., Systems Approach to Management of Disasters: Methods and Applications, (2010)
+Sjaifuddin S, 2020, IND ENG MANAG SYST, V19, P211, DOI 10.7232/iems.2020.19.1.211
+    Sjaifuddin S., Environmental management of industrial estate based on eco-industrial parks: A system dynamics modeling, Industrial Engineering and Management Systems, 19, 1, pp. 211-227, (2020)
+Xue C/1, 2013, J SOFTW, V8, P2562, DOI 10.4304/jsw.8.10.2562-2568
+    Xue C.G., Factor Analysis of the advanced manufacturing mode diffusion based on system dynamics, J. Softw., 8, 10, pp. 2562-2568, (2013)
+Yang L, 2012, INT CONF SERV SYST SERV MANAG - PROC ICSSSM, P272, DOI 10.1109/ICSSSM.2012.6252235
+    Yang K.H.L., Research on the optimization of retailer inventory strategy based on system dynamics simulation, ICSSSM12, (2012)
+    Yang K.H.L., Research on the optimization of retailer inventory strategy based on system dynamics simulation, pp. 272-275, (2012)
+Yuan H/1, 2012, WASTE MANAG, V32, P1218, DOI 10.1016/j.wasman.2012.01.028
+    Yuan H., A model for evaluating the social performance of construction waste management, Waste Manage., 32, 3, pp. 1218-1228, (2012)
+    Yuan H., A model for evaluating the social performance of construction waste management, Waste Management, 32, 3, pp. 1218-1228, (2012)
+    Yuan H., A model for evaluating the social performance of construction waste management, Waste Management, 32, 6, pp. 1218-1228, (2012)
+    Yuan H., A model for evaluating the social performance of construction waste management, Waste Management, 32, pp. 1218-1228, (2012)
+    Yuan H., A model for evaluating the social performance of construction waste management, Waste Manag., 32, 6, pp. 1218-1228, (2012)
+    Yuan H.P., A model for evaluating the social performance of construction waste management, Waste Manag, 32, 6, (2012)
+Zhang H, 2008, PROC - INT SEMIN FUTUR BIOMED ENG FBIE, P415, DOI 10.1109/FBIE.2008.106
+    Zhang H., Water resources planning based on complex system dynamics: A case study of Tianjin city, Communications in Nonlinear Science and Numerical Simulation, 13, pp. 2328-2336, (2008)
+Zhuang X, 2020, J INTELL FUZZY SYST, V38, P6883, DOI 10.3233/JIFS-179766
+    Zhuang X., Intelligent simulation of enterprise Re-innovation support system based on system dynamics, Journal of Intelligent and Fuzzy Systems, 38, 6, pp. 6883-6893, (2020)

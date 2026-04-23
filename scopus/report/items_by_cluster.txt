@@ -1,0 +1,49 @@
+CLUSTER                              0                                        1                                    2                             3
+ITEM                                                                                                                                              
+0                   impact 0225:002588                     scenario 0206:002087          decision making 0134:001466        management 0129:001750
+1              development 0177:001638                     economic 0122:001568                   change 0125:000735       environment 0099:002087
+2                   effect 0168:002134      sustainable development 0106:001945                    human 0070:001086          planning 0059:000781
+3             organization 0145:001451                    challenge 0060:000448           implementation 0065:000922         condition 0054:000304
+4                influence 0122:000965                        trend 0060:000240                  insight 0061:000874         reduction 0041:000946
+5        computer software 0115:001146                        water 0057:000649               understand 0058:001103             waste 0039:001033
+6                  process 0107:001060               sustainability 0056:000944              information 0055:000271          decision 0039:000345
+7             relationship 0105:000777                      economy 0053:000702                    times 0054:000415              city 0038:000581
+8                     cost 0099:001456               water resource 0053:000505                 resource 0049:000538             state 0038:000340
+9                 strategy 0093:000853                      country 0045:000516            effectiveness 0048:000278  waste management 0037:001837
+10       simulation result 0090:001081                       growth 0045:000294               complexity 0044:000461            social 0037:001311
+11             interaction 0085:000839                       energy 0043:000819              integration 0043:000553              flow 0037:000315
+12            supply chain 0081:001000                 water supply 0043:000599              stakeholder 0042:000397         recycling 0035:001486
+13                  demand 0077:001018                       region 0042:000298  decision support system 0041:000977           benefit 0034:000444
+14              government 0074:001160  economic and social effects 0038:000919                  project 0039:000523                              
+15             performance 0070:000822             water management 0038:000495                     rate 0037:000579                              
+16                    risk 0068:000897         economic development 0037:000603              uncertainty 0034:000383                              
+17              investment 0068:000702                    potential 0037:000559                                                                   
+18                industry 0066:000401               climate change 0037:000338                                                                   
+19                    role 0060:000620                        field 0034:000495                                                                   
+20              efficiency 0060:000375                       sector 0034:000410                                                                   
+21               operation 0058:000473                 agricultural 0034:000231                                                                   
+22              production 0056:000286                                                                                                            
+23            construction 0053:000954                                                                                                            
+24             improvement 0052:000602                                                                                                            
+25               structure 0050:000265                                                                                                            
+26                   stage 0049:000296                                                                                                            
+27              technology 0047:000221                                                                                                            
+28             manufacture 0046:000735                                                                                                            
+29                 support 0044:000383                                                                                                            
+30          characteristic 0044:000251                                                                                                            
+31                 purpose 0044:000159                                                                                                            
+32                solution 0043:000487                                                                                                            
+33              suggestion 0043:000417                                                                                                            
+34               attention 0042:000665                                                                                                            
+35                  market 0040:000522                                                                                                            
+36                 quality 0039:000524                                                                                                            
+37                 address 0037:000360                                                                                                            
+38                 analyze 0037:000265                                                                                                            
+39                building 0037:000207                                                                                                            
+40               knowledge 0037:000175                                                                                                            
+41                  source 0036:000402                                                                                                            
+42                    goal 0035:000327                                                                                                            
+43                  profit 0035:000291                                                                                                            
+44                    sale 0034:000398                                                                                                            
+45               principle 0034:000274                                                                                                            
+46               advantage 0034:000265                                                                                                            
