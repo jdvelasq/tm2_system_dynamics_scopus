@@ -4,3 +4,10 @@ TITLE-ABS-KEY(
     Vensim* OR iThink* OR Powersim* OR "stella architect" OR "stella professional" 
     OR "stella enterprise" OR "stella online" OR "stella software"
 )
+
+TITLE-ABS-KEY(system* PRE/1 dynamic*) 
+AND 
+TITLE-ABS-KEY( 
+    Vensim* OR iThink* OR Powersim* OR "stella architect" OR "stella professional" 
+    OR "stella enterprise" OR "stella online" OR "stella software"
+)
