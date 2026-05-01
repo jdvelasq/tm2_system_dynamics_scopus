@@ -145,7 +145,7 @@ CHINA UNIV MIN & TECHNOL
     China Univ Min & Technol, Sch Econ & Management, Xuzhou 221116, Peoples R China
     China Univ Min & Technol, Sch Management, Beijing 100083, Peoples R China
     China Univ Min & Technol, Sch Mech & Civil Engn, Xuzhou, Jiangsu, Peoples R China
-    China Univ Min & Technol, Sch Mines, Xuzhou 221116, Peoples R China.
+    China Univ Min & Technol, Sch Mines, Xuzhou 221116, Peoples R China
     China Univ Min & Technol, State Key Lab Geomech & Deep Underground Engn, Xuzhou 221116, Jiangsu, Peoples R China
     China Univ Min & Technol, State Key Lab Geomechan & Deep Underground Engn, Beijing 100083, Peoples R China
 CHINA UNIV MIN & TECHNOL BEIJING
@@ -545,7 +545,7 @@ NATL KAOHSIUNG MAR UNIV
     Natl Kaohsiung Marine Univ, Dept Marine Leisure Management, 142 Haijhuan Rd, Kaohsiung 811, Taiwan
     Natl Kaohsiung Marine Univ, Dept Shipping Technol, Kaohsiung 805, Taiwan
 NATL KAOHSIUNG NORM UNIV
-    Natl Kaohsiung Normal Univ, Grad Inst Environm Educ, Kaohsiung 824, Taiwan.
+    Natl Kaohsiung Normal Univ, Grad Inst Environm Educ, Kaohsiung 824, Taiwan
 NATL PINGTUNG UNIV SCI & TECHNOL
     Natl Pingtung Univ Sci & Technol, Dept Environm Sci & Engn, 1 Shuefu Rd, Pingtung 91201, Taiwan
 NATL RES UNIV HIGH SCH ECON
@@ -560,11 +560,11 @@ NATL TAIPEI UNIV TECHNOL
 NATL TAIWAN UNIV
     Natl Taiwan Univ, Coll Med, Taipei 10764, Taiwan
     Natl Taiwan Univ, Dept Business Adm, Coll Management, Taipei 10764, Taiwan
-    Natl Taiwan Univ, Grad Inst Environm Engn, Taipei 106, Taiwan.
+    Natl Taiwan Univ, Grad Inst Environm Engn, Taipei 106, Taiwan
     Natl Taiwan Univ, Natl Taiwan Univ Hosp, Dept Pediat, Taipei 10764, Taiwan
 NATL TAIWAN UNIV SCI & TECHNOL
-    Natl Taiwan Univ Sci & Technol, Dept Architecture, Taipei 106, Taiwan.
-    Natl Taiwan Univ Sci & Technol, Dept Construct Engn, Taipei, Taiwan.
+    Natl Taiwan Univ Sci & Technol, Dept Architecture, Taipei 106, Taiwan
+    Natl Taiwan Univ Sci & Technol, Dept Construct Engn, Taipei, Taiwan
 NATL UNIV DEF TECHNOL
     Natl Univ Def Technol, Coll Informat Syst & Management, Changsha 410073, Hunan, Peoples R China
     Natl Univ Def Technol, Coll Syst Engn, Changsha 410073, Peoples R China
@@ -915,7 +915,6 @@ UNIV CALIF ST BARBAR
 UNIV CANTERB
     Univ Canterbury, Dept Elect & Comp Engn, Canterbury, New Zealand
     Univ Canterbury, Dept Mech Engn, Adv Energy & Mat Syst AEMS Lab, Canterbury, New Zealand
-    Univ Canterbury, Dept Mech Engn, Adv Energy & Mat Syst AEMS Lab, Canterbury, New Zealand.
 UNIV CASSINO & SOUTH LAZIO
     Univ Cassino & Southern Lazio, Dept Civil & Mech Engn, Via G Di Biasio 43, I-03043 Cassino, Italy
 UNIV CATOL POP RISARALDA
@@ -1141,7 +1140,7 @@ UNIV PRETORIA
     Univ Pretoria, Dept Econ, Pretoria, South Africa
     Univ Pretoria, Grad Sch Technol Management, Pretoria, South Africa
 UNIV PRIMORSK
-    Univ Primorska, TURISTICA Coll Tourism Studies, Portorose, Slovenia.
+    Univ Primorska, TURISTICA Coll Tourism Studies, Portorose, Slovenia
 UNIV PRISHT HASAN PRISHT
     Univ Prishtina Hasan Prishtina, Fac Elect & Comp Engn, Prishtina, Kosovo
     Univ Prishtina Hasan Prishtina, Fac Nat Sci, Prishtina, Kosovo
@@ -1172,7 +1171,7 @@ UNIV SARAJEV
     Univ Sarajevo, Fac Elect Engn, Sarajevo, Bosnia & Herceg
     Univ Sarajevo, Fac Traff & Commun, Sarajevo, Bosnia & Herceg
 UNIV SASK
-    Univ Saskatchewan, Ctr Adv Numer Simulat, CANSIM, Dept Civil & Geol Engn, Saskatoon, SK S7N 5A9, Canada.
+    Univ Saskatchewan, Ctr Adv Numer Simulat, CANSIM, Dept Civil & Geol Engn, Saskatoon, SK S7N 5A9, Canada
     Univ Saskatchewan, Dept Civil & Geol Engn, Saskatoon, SK S7N 5A9, Canada
     Univ Saskatchewan, Dept Soil Sci, Saskatoon, SK S7N 5A9, Canada
 UNIV SCI & HUMANIT
@@ -1190,7 +1189,7 @@ UNIV SHAHREKORD
 UNIV SHANGHAI SCI & TECHNOL
     Univ Shanghai Sci & Technol, Business Sch, Shanghai 200093, Peoples R China
 UNIV SHEFF
-    Univ Sheffield, Sheffield Univ, Management Sch, Sheffield S10 2TN, England.
+    Univ Sheffield, Sheffield Univ, Management Sch, Sheffield S10 2TN, England
 UNIV SHERBROOKE
     Univ Sherbrooke, Dept Informat Syst & Quantitat Methods Business, 2500 Boul Univ, Sherbrooke, PQ J1K 2R1, Canada
 UNIV SIMON BOLIV
@@ -1202,7 +1201,6 @@ UNIV SOUTH EAST NORW
 UNIV SPLIT
     Univ Split, Fac Maritime Studies, HR-21000 Split, Croatia
     Univ Split, Fac Maritime Studies, Split 21000, Croatia
-    Univ Split, Fac Maritime Studies, Split 21000, Croatia.
 UNIV SUFFOLK
     Univ Suffolk, Sch Engn Arts Sci & Technol, Suffolk New Coll, Ipswich IP4 1QJ, Suffolk, England
 UNIV SULTAN AGENG TIRTAYASA
@@ -1310,7 +1308,6 @@ VIC UNIV
     Victoria Univ, Sch Int Business, Melbourne, Vic 8001, Australia
 VIC UNIV WELLINGT
     Victoria Univ Wellington, Victoria Management Sch, Wellington, New Zealand
-    Victoria Univ Wellington, Victoria Management Sch, Wellington, New Zealand.
     Victoria Univ Wellington, Wellington, New Zealand
 VIDZEME UNIV APPL SCI
     Vidzeme Univ Appl Sci, Informat Technol, Cesu St 4, LV-4101 Valmiera, Latvia

@@ -87,7 +87,7 @@ Canada
     Ryerson Univ, Dept Architectural Sci, Toronto, ON, Canada
     UOIT, CMCC, Ctr Study Disabil Prevent & Rehabil, Toronto, ON, Canada
     Univ British Columbia, Dept Forest Resources Management, Vancouver, BC V6T 1Z4, Canada
-    Univ Saskatchewan, Ctr Adv Numer Simulat, CANSIM, Dept Civil & Geol Engn, Saskatoon, SK S7N 5A9, Canada.
+    Univ Saskatchewan, Ctr Adv Numer Simulat, CANSIM, Dept Civil & Geol Engn, Saskatoon, SK S7N 5A9, Canada
     Univ Saskatchewan, Dept Civil & Geol Engn, Saskatoon, SK S7N 5A9, Canada
     Univ Saskatchewan, Dept Soil Sci, Saskatoon, SK S7N 5A9, Canada
     Univ Sherbrooke, Dept Informat Syst & Quantitat Methods Business, 2500 Boul Univ, Sherbrooke, PQ J1K 2R1, Canada
@@ -165,6 +165,7 @@ China
     China Univ Min & Technol, Sch Econ & Management, Xuzhou 221116, Peoples R China
     China Univ Min & Technol, Sch Management, Beijing 100083, Peoples R China
     China Univ Min & Technol, Sch Mech & Civil Engn, Xuzhou, Jiangsu, Peoples R China
+    China Univ Min & Technol, Sch Mines, Xuzhou 221116, Peoples R China
     China Univ Min & Technol, State Key Lab Geomech & Deep Underground Engn, Xuzhou 221116, Jiangsu, Peoples R China
     China Univ Min & Technol, State Key Lab Geomechan & Deep Underground Engn, Beijing 100083, Peoples R China
     China Univ Petr, Coll Mech & Elect Engn, Dept Safety Sci & Engn, Qingdao, Peoples R China
@@ -474,7 +475,6 @@ Croatia
     Univ Rijeka, Fac Maritime Studies, Rijeka, Croatia
     Univ Split, Fac Maritime Studies, HR-21000 Split, Croatia
     Univ Split, Fac Maritime Studies, Split 21000, Croatia
-    Univ Split, Fac Maritime Studies, Split 21000, Croatia.
 Czechia
     Czech Univ Life Sci Prague, Kamycka 129, Prague 16500, Czech Republic
     Natl Radiat Protect Inst SURO, Bartoskova 1450-28, Prague 14000, Czech Republic
@@ -829,9 +829,7 @@ New Zealand
     Univ Auckland, Young New Zealand Co, Auckland, New Zealand
     Univ Canterbury, Dept Elect & Comp Engn, Canterbury, New Zealand
     Univ Canterbury, Dept Mech Engn, Adv Energy & Mat Syst AEMS Lab, Canterbury, New Zealand
-    Univ Canterbury, Dept Mech Engn, Adv Energy & Mat Syst AEMS Lab, Canterbury, New Zealand.
     Victoria Univ Wellington, Victoria Management Sch, Wellington, New Zealand
-    Victoria Univ Wellington, Victoria Management Sch, Wellington, New Zealand.
     Victoria Univ Wellington, Wellington, New Zealand
 Niger
     Univ Abdou Moumouni Niamey, Climate Change & Energy, West African Sci Serv Ctr Climate Change & Adapte, Niamey, Niger
@@ -902,7 +900,7 @@ Slovenia
     Inst INRISK, CERRISK, Trebnje 8210, Slovenia
     Univ Maribor, Fac Nat Sci & Math, Jozef Stefan Int Postgrad Sch, Ljubljana, Slovenia
     Univ Maribor, Fac Org Sci, Kranj, Slovenia
-    Univ Primorska, TURISTICA Coll Tourism Studies, Portorose, Slovenia.
+    Univ Primorska, TURISTICA Coll Tourism Studies, Portorose, Slovenia
 South Africa
     Int Water Management Inst, South Afr Off, 141 Cresswell St,Private Bag X813, ZA-0127 Pretoria, South Africa
     South African Environm Observat Network, Pretoria, South Africa
@@ -993,17 +991,17 @@ Taiwan
     Natl Chengchi Univ, Coll Commerce, Dept Management Informat Syst, Taipei 11623, Taiwan
     Natl Kaohsiung Marine Univ, Dept Marine Leisure Management, 142 Haijhuan Rd, Kaohsiung 811, Taiwan
     Natl Kaohsiung Marine Univ, Dept Shipping Technol, Kaohsiung 805, Taiwan
-    Natl Kaohsiung Normal Univ, Grad Inst Environm Educ, Kaohsiung 824, Taiwan.
+    Natl Kaohsiung Normal Univ, Grad Inst Environm Educ, Kaohsiung 824, Taiwan
     Natl Pingtung Univ Sci & Technol, Dept Environm Sci & Engn, 1 Shuefu Rd, Pingtung 91201, Taiwan
     Natl Sun Yat Sen Univ, Dept Marine Environm & Engn, 70 Lienhai Rd, Kaohsiung 804, Taiwan
     Natl Taipei Univ Technol, Dept Civil Engn, Taipei 106, Taiwan
     Natl Taipei Univ Technol, Inst Environm Engn & Management, 1,Sec 3,Zhongxiao E Rd, Taipei 10608, Taiwan
     Natl Taipei Univ Technol, Inst Environm Engn & Management, Taipei 106, Taiwan
-    Natl Taiwan Univ Sci & Technol, Dept Architecture, Taipei 106, Taiwan.
-    Natl Taiwan Univ Sci & Technol, Dept Construct Engn, Taipei, Taiwan.
+    Natl Taiwan Univ Sci & Technol, Dept Architecture, Taipei 106, Taiwan
+    Natl Taiwan Univ Sci & Technol, Dept Construct Engn, Taipei, Taiwan
     Natl Taiwan Univ, Coll Med, Taipei 10764, Taiwan
     Natl Taiwan Univ, Dept Business Adm, Coll Management, Taipei 10764, Taiwan
-    Natl Taiwan Univ, Grad Inst Environm Engn, Taipei 106, Taiwan.
+    Natl Taiwan Univ, Grad Inst Environm Engn, Taipei 106, Taiwan
     Natl Taiwan Univ, Natl Taiwan Univ Hosp, Dept Pediat, Taipei 10764, Taiwan
     Tamkang Univ, Ctr Gen Educ & Core Curriculum, New Taipei City 25137, Taiwan
     Tatung Univ, Grad Inst Design Sci, Taipei 104, Taiwan
@@ -1033,6 +1031,7 @@ United Kingdom
     Univ Manchester, Tyndall Ctr Climate Change Res, Manchester M60 1QD, Lancs, England
     Univ Nottingham, Sch Phys & Astron, Univ Pk Campus, Nottingham NG7 2RD, England
     Univ Oxford, Nuffield Dept Orthopaed Rheumatol & Musculoskeleta, Oxford, England
+    Univ Sheffield, Sheffield Univ, Management Sch, Sheffield S10 2TN, England
     Univ Suffolk, Sch Engn Arts Sci & Technol, Suffolk New Coll, Ipswich IP4 1QJ, Suffolk, England
     Univ Worcester, Worcester Business Sch, Worcester, England
 United States
@@ -1160,7 +1159,5 @@ Zambia
     Bogazici Univ, Inst Environm Sci, TR-34342 Istanbul, Turkiye
     Bursa Uludag Univ, Dept Environm Engn, Bursa, Turkiye
     Bursa Uludag Univ, Inst Nat & Appl Sci, Dept Environm Engn, Bursa, Turkiye
-    China Univ Min & Technol, Sch Mines, Xuzhou 221116, Peoples R China.
     Univ Sarajevo, Fac Elect Engn, Sarajevo, Bosnia & Herceg
     Univ Sarajevo, Fac Traff & Commun, Sarajevo, Bosnia & Herceg
-    Univ Sheffield, Sheffield Univ, Management Sch, Sheffield S10 2TN, England.
